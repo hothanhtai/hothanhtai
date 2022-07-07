@@ -5,10 +5,11 @@
 </p>
 <h1 align="center">Hi there, I'm Thanh Tai👋</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png" /></p>
-<p align="center">
+
+
 ✍ I'm a student of: [Duy Tân University](https://duytan.edu.vn) (DTU).<br>
 🌱 I’m currently learning **BigData and MachineLearning.**
-  </p>
+
 
 
 # 🌐Socials
