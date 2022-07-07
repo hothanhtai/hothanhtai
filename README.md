@@ -57,14 +57,17 @@
 <p align='center'>
 <img src="https://activity-graph.herokuapp.com/graph?username=hothanhtai&theme=react-dark&hide_border=true">
 <p>
-## 🏆GitHub Trophies:
+  
+# 🏆GitHub Trophies:
 
 ![](https://github-trophies.vercel.app/?username=hothanhtai&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️Random Dev Quote
+# ✍️Random Dev Quote
+  
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+    
 
-### 😂Random Dev Meme
+# 😂Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
