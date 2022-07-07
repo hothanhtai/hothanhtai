@@ -5,9 +5,10 @@
 </p>
 <h1 align="center">Hi there, I'm Thanh Tai👋</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png" /></p>
-
-- ✍ I'm a student of: [Duy Tân University](https://duytan.edu.vn) (DTU).
-- 🌱 I’m currently learning **BigData and MachineLearning.**
+<p align="center">
+✍ I'm a student of: [Duy Tân University](https://duytan.edu.vn) (DTU).<br>
+🌱 I’m currently learning **BigData and MachineLearning.**
+  </p>
 
 
 # 🌐Socials
@@ -25,6 +26,7 @@
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" target="_blank" />
   </a> 
 </p>
+
 # 💻Skills
 <p align="center">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -49,7 +51,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hothanhtai&theme=radical&hide_border=false" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hothanhtai&theme=radical&hide_border=false&include_all_commits=false&count_private=false&custom_title=Top%20ngôn%20ngữ%20được%20dùng&layout=compact" />
 </p>
-## <p align="center">Github Contributions 📈</p>
+
+#  📈Github Contributions
 <br>
 <p align='center'>
 <img src="https://activity-graph.herokuapp.com/graph?username=hothanhtai&theme=react-dark&hide_border=true">
