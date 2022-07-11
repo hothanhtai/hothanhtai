@@ -1,18 +1,20 @@
 
 <p align="center">
-  <img align="left" src="https://media1.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif?cid=ecf05e472q839h4zc3me23he0f5pl7oyoaji0gdd26jdmsob&rid=giphy.gif&ct=g" width="50%" />
+  
   <img  src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ts5jf02fm3itwf9s51lr1z23w76y59blybaz5ywx&rid=giphy.gif&ct=g" width="50%" />
 </p>
+
 <h1 align="center">Hi there, I'm Thanh Tai👋</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png" /></p>
 
-
+ 
 ✍ I'm a student of: [Duy Tân University](https://duytan.edu.vn) (DTU).<br>
 🌱 I’m currently learning **BigData and MachineLearning.**
 
 
 
 # 🌐Socials
+
 <p align="center">
    <a href="https://facebook.com/https://www.facebook.com/tai.thanh.9638/" alt="Facebook" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/>
@@ -29,6 +31,9 @@
 </p>
 
 # 💻Skills
+<p align = "center">
+ <img src="https://media1.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif?cid=ecf05e472q839h4zc3me23he0f5pl7oyoaji0gdd26jdmsob&rid=giphy.gif&ct=g" width="50%" />
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
