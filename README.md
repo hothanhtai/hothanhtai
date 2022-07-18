@@ -1,7 +1,7 @@
 
 <p align="center">
   
- <img src="https://media1.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif?cid=ecf05e472q839h4zc3me23he0f5pl7oyoaji0gdd26jdmsob&rid=giphy.gif&ct=g" width="50%" />
+ <img src="https://media1.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif?cid=ecf05e472q839h4zc3me23he0f5pl7oyoaji0gdd26jdmsob&rid=giphy.gif&ct=g" width="60%" />
 </p>
 
 <h1 align="center">Hi there, I'm Thanh Tai👋</h1>
@@ -32,7 +32,7 @@
 
 # 💻Skills
 <p align = "center">
- <img  src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ts5jf02fm3itwf9s51lr1z23w76y59blybaz5ywx&rid=giphy.gif&ct=g" width="50%" />
+ <img  src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ts5jf02fm3itwf9s51lr1z23w76y59blybaz5ywx&rid=giphy.gif&ct=g" width="60%" />
  
 </p>
 <p align="center">
