@@ -16,16 +16,16 @@
 # 🌐Socials
 
 <p align="center">
-   <a href="https://facebook.com/https://www.facebook.com/tai.thanh.9638/" alt="Facebook" target="_blank">
+   <a href="https://www.facebook.com/tai.thanh.9638/" alt="Facebook" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/https://www.instagram.com/ht.tai_2101/" alt="Instagram">
+  <a href="https://www.instagram.com/ht.tai_2101/" alt="Instagram">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" target="_blank" />
   </a> 
-  <a href="https://tiktok.com/@https://www.tiktok.com/@taiho35" alt="Tiktok">
+  <a href="https://www.tiktok.com/@taiho35" alt="Tiktok">
     <img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" target="_blank" />
   </a> 
-   <a href="https://youtube.com/c/https://www.youtube.com/channel/UCtJqwTBgoIBXel-w71puHTw" alt="Tiktok">
+   <a href="https://www.youtube.com/channel/UCtJqwTBgoIBXel-w71puHTw" alt="Tiktok">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" target="_blank" />
   </a> 
 </p>
