@@ -58,12 +58,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hothanhtai&theme=radical&hide_border=false" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hothanhtai&theme=radical&hide_border=false&include_all_commits=false&count_private=false&custom_title=Top%20ngôn%20ngữ%20được%20dùng&layout=compact" />
 </p>
-
-#  📈Github Contributions
-<br>
-<p align='center'>
-<img src="https://activity-graph.herokuapp.com/graph?username=hothanhtai&theme=react-dark&hide_border=true">
-<p>
   
 # 🏆GitHub Trophies:
 
