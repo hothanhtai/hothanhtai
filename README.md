@@ -1,7 +1,7 @@
 
 <p align="center">
   
- <img src="https://media1.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif?cid=ecf05e472q839h4zc3me23he0f5pl7oyoaji0gdd26jdmsob&rid=giphy.gif&ct=g" width="60%" />
+ <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG82NDNpM21rZ2YwbGlrczZnMms2aW1oZjBjaTYwaXlseTN6Y3ZjZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JXCgEtwj2qs1ngHa0O/giphy.webp" width="60%" />
 </p>
 
 <h1 align="center">Hi there, I'm Thanh Tai👋</h1>
