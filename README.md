@@ -1,7 +1,7 @@
 
 <p align="center">
   
- <img src="https://media0.giphy.com/media/L1R1tvI9svkIWwpVYr/200.webp?cid=ecf05e47rnmqtxvetfdcthkmxvmjx5ltga1o30d34p82php4&ep=v1_gifs_search&rid=200.webp&ct=g" width="60%" />
+ <img src="https://media1.tenor.com/m/kjXMU4dl8lAAAAAC/hello-world.gif" width="60%" />
 </p>
 
 <h1 align="center">Hi there, I'm Thanh Tai👋</h1>
