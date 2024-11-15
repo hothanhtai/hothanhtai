@@ -9,7 +9,7 @@
 
  
 ✍ I'm a student of: [Duy Tân University](https://duytan.edu.vn) (DTU).<br>
-🌱 I’m currently a back-end web developer at **Archisketch Vietnam.**
+🌱 I’m currently a web developer at **Archisketch Vietnam.**
 
 
 
