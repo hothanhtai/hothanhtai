@@ -52,15 +52,3 @@
 </p>
 
 
-# 📊GitHub Stats :
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hothanhtai&theme=radical&hide_border=false&include_all_commits=false&count_private=false&custom_title=Hoạt%20động%20trên%20Github" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hothanhtai&theme=radical&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hothanhtai&theme=radical&hide_border=false&include_all_commits=false&count_private=false&custom_title=Top%20ngôn%20ngữ%20được%20dùng&layout=compact" />
-</p>
-  
-
-    
-
-[![](https://visitcount.itsvg.in/api?id=hothanhtai&icon=0&color=0)](https://visitcount.itsvg.in)
-
