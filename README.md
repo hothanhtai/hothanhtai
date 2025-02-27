@@ -36,19 +36,17 @@
  
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />
+  <img src="https://github.com/user-attachments/assets/a0e2f74d-fc57-4cfa-bb59-a19a50cd4ba9" width="200px" />
+  <img src="https://github.com/user-attachments/assets/81e00469-0e56-4e38-bb8d-02773edc897d" width="200px" />
+  <img src="https://github.com/user-attachments/assets/f47ba2de-313f-405b-baa9-b607af1f141e" width="200px" />
+  <img src="https://github.com/user-attachments/assets/18c9896d-abf4-4042-bddb-23b8823096bf" width="200px" />
+  <img src="https://github.com/user-attachments/assets/8cedf7ee-8f08-4039-b642-7fd0c8bdba99" width="200px" />
+  <img src="https://github.com/user-attachments/assets/b712067d-b358-47e2-bb77-8ef17a5d8654" width="200px" />
+  <img src="https://github.com/user-attachments/assets/f427d922-3113-48b0-ad24-5f80559cca0f" width="200px" />
+  <img src="https://github.com/user-attachments/assets/abb16b6f-2758-44c6-8508-75eb0d44b0e6" width="200px" />
+
+
+  
 </p>
 
 
