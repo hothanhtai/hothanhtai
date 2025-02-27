@@ -4,7 +4,7 @@
  <img src="https://media1.tenor.com/m/kjXMU4dl8lAAAAAC/hello-world.gif" width="40%" />
 </p>
 
-<h1 align="center">Hi there, I'm Thanh Tai👋</h1>
+<h1 align="center">Hi, I'm Thanh Tai👋</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png" /></p>
 
  
